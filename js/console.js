@@ -7,7 +7,7 @@ function createtime1() {
     var dnum = Math.floor(days);
 
     var ascll = [
-        `欢迎来到triblade的博客!`,
+        `欢迎来到cΔerμs的博客!`,
         `生活明朗，万物可爱✨`,
 "                                                       ___\n" +
 "                                                      |_  |\n" +
@@ -22,7 +22,7 @@ function createtime1() {
 "                                                        | |\n" +
 "                                                       _| |\n" +
 "                                                      |___| cjr",
-        "©2024 By triblade"
+        "©2024 By cΔerμs"
     ];
 
     setTimeout(
@@ -62,7 +62,7 @@ function createtime2() {
     setTimeout(
         console.warn.bind(
             console,
-            "%c ⚡ Powered by triblade %c 你正在访问triblade的博客",
+            "%c ⚡ Powered by cΔerμs %c 你正在访问cΔerμs的博客",
             "color:white; background-color:#f0ad4e",
             ""
         )
